@@ -1,3 +1,4 @@
+TEARITS JS 86 machine code runner 
 # Emulator
 Embeddable visual pseudo x86-64 emulator written in JavaScript. Made for easily embedding a CPU emulator into a web page so that it can
 be easily used to make tutorials or demos. Uses interrupts to tie into JavaScript code.   
